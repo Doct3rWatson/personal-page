@@ -28,6 +28,7 @@
       "url": "https://blogs.bu.edu/cbwatson/",
       "area": "Astronomy",
       "studyType": "PhD",
+      "startDate": "2019",
       "endDate": "2025",
       "score": "10",
       "courses": ["Thesis: Galaxy Cluster Dynamics: Insights from Bent, Double-Lobed Radio Sources and Multi-Wavelength Observations"]
@@ -37,6 +38,7 @@
       "location": "Boston, MA",
       "area": "Astronomy",
       "studyType": "MA",
+      "startDate": "2019",
       "endDate": "2022",
       "score": "10"
     },
@@ -45,6 +47,7 @@
       "location": "College Station, TX",
       "area": "Physics",
       "studyType": "BS",
+      "startDate": "2015",
       "endDate": "2018",
       "score": "10",
       "courses": ["Undergraduate Research Scholar"]
