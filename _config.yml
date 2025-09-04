@@ -194,6 +194,7 @@ exclude:
   - _pages/profiles.md
   - purgecss.config.js
   - README.md
+  - README.v0.md
   - readme_preview/
   - vendor
 keep_files:
