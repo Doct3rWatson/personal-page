@@ -16,12 +16,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/personal-page/publications/";
           },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
+        },{id: "nav-repositories",
+          title: "repositories",
+          description: "GitHub repositories with projects I did during my graduate and post-doc career",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/personal-page/projects/";
+            window.location.href = "/personal-page/repositories/";
           },
         },{id: "nav-cv",
           title: "cv",
@@ -401,9 +401,9 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-smart-dashboard",
+          title: 'smart dashboard',
+          description: "A customizable smart dashboard that displays Google Calendars, editable meal plans, a to-do list, and weather, designed for Raspberry Pi deployment.",
           section: "Projects",handler: () => {
               window.location.href = "/personal-page/projects/1_project/";
             },},{id: "projects-project-2",
