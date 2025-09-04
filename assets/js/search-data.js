@@ -23,13 +23,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/personal-page/projects/";
           },
-        },{id: "nav-repositories",
-          title: "repositories",
-          description: "GitHub repositories with projects I did during my graduate and post-doc career",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/personal-page/repositories/";
-          },
         },{id: "nav-cv",
           title: "cv",
           description: "CWatson Academic CV",
