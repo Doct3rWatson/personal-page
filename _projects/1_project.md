@@ -37,10 +37,10 @@ You can also put regular text between your rows of images, even citations {% cit
 Say you wanted to write a bit about your project before you posted the rest of the images.
 You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
 
-<div class="row justify-content-sm-center">
+<!-- <div class="row justify-content-sm-center">
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
     {% include repository/repo.liquid repository=doct3rwatson/smart-dash %}
-</div>
-</div>
+</div> -->
+<!-- </div> -->
 
 
