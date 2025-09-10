@@ -399,6 +399,11 @@ ninja.data = [{
           description: "A customizable smart dashboard that displays Google Calendars, editable meal plans, a to-do list, and weather, designed for Raspberry Pi deployment.",
           section: "Projects",handler: () => {
               window.location.href = "/personal-page/projects/1_project/";
+            },},{id: "projects-doctor-watson-39-s-stationery-co",
+          title: 'Doctor Watson&amp;#39;s Stationery Co.',
+          description: "Side hobby of crafting and such",
+          section: "Projects",handler: () => {
+              window.location.href = "/personal-page/projects/2_project/";
             },},{
         id: 'social-email',
         title: 'email',
