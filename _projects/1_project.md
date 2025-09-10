@@ -8,7 +8,7 @@ category: fun
 related_publications: false
 ---
 
-I started this project because I wanted a certain smart calendar that was going viral online but without the price tag. 
+I started this project because I wanted a certain smart calendar that was going viral online but without the price tag. The code is available on my GitHub. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
