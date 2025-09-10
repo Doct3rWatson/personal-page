@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Assortment of scripts I've written for personal projects
+description: Assortment of projects I've done, both personal and professional (but outside of astronomy)
 nav: false
 nav_order: 3
 display_categories: [work, fun]
