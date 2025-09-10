@@ -7,6 +7,8 @@ nav: true
 nav_order: 2
 ---
 
+[Link to ADS library](https://ui.adsabs.harvard.edu/public-libraries/NAUxmjoWRFGXE1xK67InIA)
+
 <!-- _pages/publications.md -->
 
 <!-- Bibsearch Feature -->
