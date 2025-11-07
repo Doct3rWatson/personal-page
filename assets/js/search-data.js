@@ -404,6 +404,11 @@ ninja.data = [{
           description: "Side hobby of crafting and such",
           section: "Projects",handler: () => {
               window.location.href = "/personal-page/projects/2_project/";
+            },},{id: "projects-spectroscopically-confirmed-gravitational-lens-systems-interactive-database",
+          title: 'Spectroscopically Confirmed Gravitational Lens Systems | Interactive Database',
+          description: "Post-doc project for AGEL survey.",
+          section: "Projects",handler: () => {
+              window.location.href = "/personal-page/projects/3_project/";
             },},{
         id: 'social-email',
         title: 'email',
