@@ -19,7 +19,7 @@ I decided to get a bit extra and see if I could make the plot more interactive. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3_interactive.png" title="interactive still" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/3_interactive_still.png" title="interactive still" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
