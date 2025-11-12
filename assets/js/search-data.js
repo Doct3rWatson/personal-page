@@ -457,13 +457,6 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=zpGZI4oAAAAJ", "_blank");
         },
       },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://dataverse.harvard.edu/dataverse/agel-survey", "_blank");
-        },
-      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
