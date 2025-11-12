@@ -4,7 +4,7 @@ title: Doctor Watson's Stationery Co.
 description: Side hobby of crafting and such
 img: assets/img/dw_logo.png
 importance: 2
-category: work
+category: fun
 ---
 
 I started Doctor Watson's Stationery Co. because I wanted a daily planner that I would finally use on a recurring basis. 
