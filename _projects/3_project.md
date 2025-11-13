@@ -38,7 +38,7 @@ loading="lazy">
 </div>
 
 
-###
+
 
 - The AGEL Data Policies and Management Plan, a document that summarizes:
     - Best practicies for data handling
