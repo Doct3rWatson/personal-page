@@ -9,10 +9,13 @@ category: fun
 
 I started Doctor Watson's Stationery Co. because I wanted a daily planner that I would finally use on a recurring basis. 
 
-So far, I have published 3 style versions, in different sizes, of my Planned Chaos weekly planner series: Dusty Rose, Blue Modern, and Space Chaos. In each version, I designed the layouts and covers (some art assets used are from Canva Pro artists)
+So far, I have published 3 style versions, in different sizes, of my Planned Chaos weekly planner series: Dusty Rose, Blue Modern, and Space Chaos. In each version, I designed the layouts and covers. 
+
+Links to all my planners can be found in <a href="https://linktr.ee/doctorwatsonsstationeryco">my linktree.</a> 
 
 ## Planned Chaos: 52-week Undated Weekly Planner -- Dusty Rose 
-Available in <a href="https://www.amazon.com/dp/B0C7T5TJ9Z">6"x9"</a> or <a href="https://www.amazon.com/dp/B0C7T5TJ9Z">8.5"x11"</a>. Both sizes are available in either paperback or hardback formats (tbd on spiral bound)
+Available in <a href="https://www.amazon.com/dp/B0G1YK4N13">6"x9"</a> or <a href="https://www.amazon.com/dp/B0G1YGT8KN">8.5"x11"</a>. 
+<!-- Both sizes are available in either paperback or hardback formats (tbd on spiral bound) -->
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -30,7 +33,7 @@ Available in <a href="https://www.amazon.com/dp/B0C7T5TJ9Z">6"x9"</a> or <a href
 </div>
 
 ## Planned Chaos: 52-week Undated Weekly Planner -- Blue Modern
-Available as <a href="https://www.amazon.com/dp/B0C881K2ZJ">6"x9" paperback</a>
+Available as <a href="https://www.amazon.com/dp/B0G1YFGVWP">6"x9" paperback</a>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -46,6 +49,8 @@ Available as <a href="https://www.amazon.com/dp/B0C881K2ZJ">6"x9" paperback</a>
 <div class="caption">
     I created a few different designs to try and cater to different vibes. 
 </div>
+
+<!-- add space themed one -->
 
 
 # Non-Chaotic series
