@@ -21,10 +21,10 @@ This involved creating:
     - What data products we had on hand and where to find them (which meant wrangling data from a bunch of different scientists...)
     - Some links to tutorials and examples that may help new researchers getting started
 
-<div style="position:relative; padding-bottom:50%; height:0; overflow:hidden;">
+<div style="position:relative; padding-bottom:80%; height:0; overflow:hidden;">
 <iframe
 src="https://docs.google.com/document/d/180PoS0eUiFdz9aT3mNl22-fuoLNd5zZBbLazPJ7JHKE/edit?usp=sharing"
-style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;"
+style="position:absolute; top:0; left:1; width:75%; height:100%; border:0;"
 loading="lazy">
 </iframe>
 </div>
@@ -34,7 +34,7 @@ loading="lazy">
     - Instructs users on how to create their Dataverse accounts and upload data to the established [AGEL Dataverse](https://dataverse.harvard.edu/dataverse/agel-survey) archive
     - Creating README files for published data
 
-<div style="position:relative; padding-bottom:50%; height:0; overflow:hidden;">
+<div style="position:relative; padding-bottom:80%; height:0; overflow:hidden;">
 <iframe
   src="https://docs.google.com/document/d/12KWi33mWvCOr469_4hnBdblogiJi7m3Fh1jjd4FonI0/edit?usp=sharing"
   style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;"
