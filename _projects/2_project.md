@@ -22,7 +22,7 @@ Links to all my planners can be found in [my linktree](https://linktr.ee/doctorw
 Available in [6"x9"](https://www.amazon.com/dp/B0G1YK4N13) or [8.5"x11"](https://www.amazon.com/dp/B0G1YGT8KN).
 <!-- Both sizes are available in either paperback or hardback formats (tbd on spiral bound) -->
 
-<!-- <div class="row">
+<div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/pc_flower_1.png" title="Planned Chaos Promo" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -35,13 +35,7 @@ Available in [6"x9"](https://www.amazon.com/dp/B0G1YK4N13) or [8.5"x11"](https:/
 </div>
 <div class="caption">
     I designed the cover and the layout (some graphics were used from Canva). I designed the promotional material that was then uploaded to the amaozon listing page as well as social media. 
-</div> -->
-
-<swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/pc_flower_1.png" title="Planned Chaos Promo" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/pc_flower_2.png" title="Planned Chaos Pages" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/pc_flower_3.png" title="Planned Chaos Layout" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-</swiper-container>
+</div>
 
 <hr>
 
