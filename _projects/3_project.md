@@ -14,7 +14,6 @@ My first post-doc was with the [AGEL survey team](https://sites.google.com/view/
 
 This involved:
 - Creating the AGEL Roadmap, a document that summarizes the AGEL team assets -- onboarding and offboarding reserachers to the team, what resources we used, what reserachers were actively involved and their contact info, what data products we had on hand and where to find them. 
-    
 - Creating the AGEL Data Policies and Management Plan, a document that summarizes best practicies for data handling and instructs users on how to create their Dataverse accounts and upload data to the established [AGEL Dataverse](https://dataverse.harvard.edu/dataverse/agel-survey) archive.
 
 

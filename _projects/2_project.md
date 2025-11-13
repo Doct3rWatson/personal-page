@@ -13,6 +13,8 @@ So far, I have published 3 style versions, in different sizes, of my Planned Cha
 
 Links to all my planners can be found in [my linktree](https://linktr.ee/doctorwatsonsstationeryco/) as well as my [Amazon author page](https://amazon.com/author/drwatsonco)
 
+<hr>
+
 ## Planned Chaos: 52-week Undated Weekly Planner -- Dusty Rose 
 Available in [6"x9"](https://www.amazon.com/dp/B0G1YK4N13) or [8.5"x11"](https://www.amazon.com/dp/B0G1YGT8KN).
 <!-- Both sizes are available in either paperback or hardback formats (tbd on spiral bound) -->
@@ -31,6 +33,8 @@ Available in [6"x9"](https://www.amazon.com/dp/B0G1YK4N13) or [8.5"x11"](https:/
 <div class="caption">
     I designed the cover and the layout (some graphics were used from Canva). I designed the promotional material that was then uploaded to the amaozon listing page as well as social media. 
 </div>
+
+<hr>
 
 ## Planned Chaos: 52-week Undated Weekly Planner -- Blue Modern
 Available as [6"x9" paperback]("https://www.amazon.com/dp/B0G1YFGVWP).
@@ -52,6 +56,8 @@ Available as [6"x9" paperback]("https://www.amazon.com/dp/B0G1YFGVWP).
 
 <!-- add space themed one -->
 
+<hr>
+<hr>
 
 # Non-Chaotic series
 ## Weekly Planner:Undated 52-Week Planner -- Blue Modern
