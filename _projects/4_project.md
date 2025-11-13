@@ -20,20 +20,11 @@ My first post-doc was with the [AGEL survey team](https://sites.google.com/view/
 I decided to get a bit extra and see if I could make the plot more interactive. Rather than a movie, I wanted users to be able to just move a slider and have greater control over seeing the number of new discoveries grow. I wanted to be able to zoom in to check out regions that had lots of points in more details. I wanted to be able to easily find the papers associated with these targets. So I build a plot that did all of that. Available [on my github](https://doct3rwatson.github.io/Lensing-DB-redshifts/) and linked on the AGEL website. Along with this, I compiled an ADS library of papers to link to each system. This is available as the [AGEL+ Lens Database library on ADS](https://ui.adsabs.harvard.edu/public-libraries/HB5WWHhdSf6FlHyOPV6DYg).
 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3_interactive_still.png" title="interactive still" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Screenshot of interactive plot. 
-</div>
-
-
-<div style="position:relative; padding-bottom:50%; height:0; overflow:hidden;">
+<div style="position:relative; padding-bottom:70%; height:0; overflow:hidden;">
 <iframe
 src="https://doct3rwatson.github.io/Lensing-DB-redshifts/"
 style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;"
+allowfullscreen
 loading="lazy">
 </iframe>
 </div>

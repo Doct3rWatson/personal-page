@@ -25,9 +25,12 @@ This involved creating:
 <iframe
 src="https://docs.google.com/document/d/180PoS0eUiFdz9aT3mNl22-fuoLNd5zZBbLazPJ7JHKE/edit?usp=sharing"
 style="position:absolute; top:0; left:1; width:75%; height:100%; border:0;"
+allowfullscreen
 loading="lazy">
 </iframe>
 </div>
+
+###
 
 - The AGEL Data Policies and Management Plan, a document that summarizes:
     - Best practicies for data handling
