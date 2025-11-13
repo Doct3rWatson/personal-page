@@ -14,6 +14,8 @@ My first post-doc was with the [AGEL survey team](https://sites.google.com/view/
 
 This involved creating
 
+<div class="row">
+<div class="col-sm mt-3 mt-md-0">
 - The AGEL Team Roadmap: a document that summarizes the AGEL team assets 
     - Onboarding new researchers and offboarding leaving team members
     - What resources we have
@@ -23,15 +25,14 @@ This involved creating
 
 <div style="position:relative; padding-bottom:50%; height:0; overflow:hidden;">
 <iframe
-  src="https://docs.google.com/document/d/180PoS0eUiFdz9aT3mNl22-fuoLNd5zZBbLazPJ7JHKE/edit?usp=sharing"
-  style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;"
-  loading="lazy">
+src="https://docs.google.com/document/d/180PoS0eUiFdz9aT3mNl22-fuoLNd5zZBbLazPJ7JHKE/edit?usp=sharing"
+style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;"
+loading="lazy">
 </iframe>
 </div>
-
-
+</div>
+<div class="col-sm mt-3 mt-md-0">
 - The AGEL Data Policies and Management Plan, a document that summarizes best practicies for data handling and instructs users on how to create their Dataverse accounts and upload data to the established [AGEL Dataverse](https://dataverse.harvard.edu/dataverse/agel-survey) archive.
-
 <div style="position:relative; padding-bottom:50%; height:0; overflow:hidden;">
 <iframe
   src="https://docs.google.com/document/d/12KWi33mWvCOr469_4hnBdblogiJi7m3Fh1jjd4FonI0/edit?usp=sharing"
@@ -39,4 +40,6 @@ This involved creating
   allowfullscreen
   loading="lazy">
 </iframe>
+</div>
+</div>
 </div>
