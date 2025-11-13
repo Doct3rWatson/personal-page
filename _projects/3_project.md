@@ -5,6 +5,7 @@ description: Post-doc work for AGEL survey.
 img: assets/img/agel_survey_logo.png
 importance: 1
 category: work
+citation: true
 ---
 
 
