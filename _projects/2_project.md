@@ -11,7 +11,7 @@ I started Doctor Watson's Stationery Co. because I wanted a daily planner that I
 
 So far, I have published 3 style versions, in different sizes, of my Planned Chaos weekly planner series: Dusty Rose, Blue Modern, and Space Chaos. In each version, I designed the layouts and covers. 
 
-Links to all my planners can be found in <a href="https://linktr.ee/doctorwatsonsstationeryco">my linktree.</a> 
+Links to all my planners can be found in <a href="https://linktr.ee/doctorwatsonsstationeryco">my linktree</a> as well as my <a href="amazon.com/author/drwatsonco">Amazon author page.</a> 
 
 ## Planned Chaos: 52-week Undated Weekly Planner -- Dusty Rose 
 Available in <a href="https://www.amazon.com/dp/B0G1YK4N13">6"x9"</a> or <a href="https://www.amazon.com/dp/B0G1YGT8KN">8.5"x11"</a>. 
