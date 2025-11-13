@@ -18,3 +18,11 @@ This involved:
     - Creating the AGEL Data Policies and Management Plan, a document that summarizes best practicies for data handling and instructs users on how to create their Dataverse accounts and upload data to the established [AGEL Dataverse](https://dataverse.harvard.edu/dataverse/agel-survey) archive.
 
 
+<div style="position:relative; padding-bottom:70%; height:0; overflow:hidden;">
+<iframe
+  src="https://docs.google.com/document/d/180PoS0eUiFdz9aT3mNl22-fuoLNd5zZBbLazPJ7JHKE/edit?usp=sharing"
+  style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;"
+  allowfullscreen
+  loading="lazy">
+</iframe>
+</div>
