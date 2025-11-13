@@ -3,7 +3,7 @@ layout: page
 title: Spectroscopically Confirmed Gravitational Lens Systems | Interactive Database
 description: Post-doc project for AGEL survey.
 img: assets/img/3_interactive_plotonly.png
-importance: 4
+importance: 2
 category: work
 ---
 

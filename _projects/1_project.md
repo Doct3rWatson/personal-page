@@ -3,7 +3,7 @@ layout: page
 title: smart dashboard
 description: A customizable smart dashboard that displays Google Calendars, editable meal plans, a to-do list, and weather, designed for Raspberry Pi deployment.
 img: assets/img/cal-full.png
-importance: 1
+importance: 2
 category: fun
 related_publications: false
 ---
