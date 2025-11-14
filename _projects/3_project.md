@@ -31,12 +31,12 @@ loading="lazy">
 </iframe>
 </div> -->
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/publication_preview/Example_2025_AGEL_Roadmap.pdf" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-
+<embed 
+  src="assets/img/publication_preview/Example_2025_AGEL_Roadmap.pdf" 
+  type="application/pdf" 
+  width="100%" 
+  height="900px"
+/>
 
 
 
