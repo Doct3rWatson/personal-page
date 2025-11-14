@@ -31,13 +31,13 @@ loading="lazy">
 </iframe>
 </div> -->
 
-<embed 
+<iframe
   src="assets/img/publication_preview/Example_2025_AGEL_Roadmap.pdf" 
-  type="application/pdf" 
-  width="100%" 
+  width="100%"
   height="900px"
-/>
-
+  style="border:none;"
+>
+</iframe>
 
 
 - The AGEL Data Policies and Management Plan, a document that summarizes:
