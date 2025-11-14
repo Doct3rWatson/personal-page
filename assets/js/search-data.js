@@ -394,26 +394,31 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-smart-dashboard",
-          title: 'smart dashboard',
-          description: "A customizable smart dashboard that displays Google Calendars, editable meal plans, a to-do list, and weather, designed for Raspberry Pi deployment.",
-          section: "Projects",handler: () => {
-              window.location.href = "/personal-page/projects/1_project/";
-            },},{id: "projects-project-amp-data-manageer-for-the-agel-survey",
+          section: "News",},{id: "projects-project-amp-data-manageer-for-the-agel-survey",
           title: 'Project &amp;amp; Data Manageer for the AGEL Survey',
           description: "Post-doc work for AGEL survey.",
           section: "Projects",handler: () => {
-              window.location.href = "/personal-page/projects/3_project/";
-            },},{id: "projects-spectroscopically-confirmed-gravitational-lens-systems-interactive-database",
-          title: 'Spectroscopically Confirmed Gravitational Lens Systems | Interactive Database',
-          description: "Post-doc project for AGEL survey.",
-          section: "Projects",handler: () => {
-              window.location.href = "/personal-page/projects/4_project/";
+              window.location.href = "/personal-page/projects/agel_project/";
             },},{id: "projects-doctor-watson-39-s-stationery-co",
           title: 'Doctor Watson&amp;#39;s Stationery Co.',
           description: "Side hobby of crafting and such",
           section: "Projects",handler: () => {
               window.location.href = "/personal-page/projects/dwstationeryco/";
+            },},{id: "projects-online-listeners-dashboard",
+          title: 'Online Listeners Dashboard',
+          description: "visualization on stream statistics for online radio broadcast",
+          section: "Projects",handler: () => {
+              window.location.href = "/personal-page/projects/listener_dashboard/";
+            },},{id: "projects-spectroscopically-confirmed-gravitational-lens-systems-interactive-database",
+          title: 'Spectroscopically Confirmed Gravitational Lens Systems | Interactive Database',
+          description: "Post-doc project for AGEL survey.",
+          section: "Projects",handler: () => {
+              window.location.href = "/personal-page/projects/redshift_plot/";
+            },},{id: "projects-smart-dashboard",
+          title: 'smart dashboard',
+          description: "A customizable smart dashboard that displays Google Calendars, editable meal plans, a to-do list, and weather, designed for Raspberry Pi deployment.",
+          section: "Projects",handler: () => {
+              window.location.href = "/personal-page/projects/smart_cal/";
             },},{
         id: 'social-email',
         title: 'email',
