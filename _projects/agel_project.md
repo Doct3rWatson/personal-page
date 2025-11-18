@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Project & Data Manageer for the AGEL Survey
+title: Project & Data Manager for the AGEL Survey
 description: Post-doc work for AGEL survey.
 img: assets/img/agel_survey_logo.png
 importance: 1
@@ -24,10 +24,10 @@ This involved creating:
 
 <div style="position:relative; padding-bottom:80%; height:0; overflow:hidden;">
 <iframe
-src="https://docs.google.com/document/d/180PoS0eUiFdz9aT3mNl22-fuoLNd5zZBbLazPJ7JHKE/edit?usp=sharing"
-style="position:absolute; top:0; left:1; width:100%; height:1200px; border:0;"
-allowfullscreen
-loading="lazy">
+  src="https://docs.google.com/document/d/180PoS0eUiFdz9aT3mNl22-fuoLNd5zZBbLazPJ7JHKE/edit?usp=sharing"
+  style="position:absolute; top:0; left:1; width:100%; height:1200px; border:0;"
+  allowfullscreen
+  loading="lazy">
 </iframe>
 </div>
 
