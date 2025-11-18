@@ -394,8 +394,8 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-amp-data-manageer-for-the-agel-survey",
-          title: 'Project &amp;amp; Data Manageer for the AGEL Survey',
+          section: "News",},{id: "projects-project-amp-data-manager-for-the-agel-survey",
+          title: 'Project &amp;amp; Data Manager for the AGEL Survey',
           description: "Post-doc work for AGEL survey.",
           section: "Projects",handler: () => {
               window.location.href = "/personal-page/projects/agel_project/";
