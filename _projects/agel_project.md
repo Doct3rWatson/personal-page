@@ -22,22 +22,22 @@ This involved creating:
     - What data products we had on hand and where to find them (which meant wrangling data from a bunch of different scientists...)
     - Some links to tutorials and examples that may help new researchers getting started
 
-<!-- <div style="position:relative; padding-bottom:80%; height:0; overflow:hidden;">
+<div style="position:relative; padding-bottom:80%; height:0; overflow:hidden;">
 <iframe
 src="https://docs.google.com/document/d/180PoS0eUiFdz9aT3mNl22-fuoLNd5zZBbLazPJ7JHKE/edit?usp=sharing"
 style="position:absolute; top:0; left:1; width:100%; height:1200px; border:0;"
 allowfullscreen
 loading="lazy">
 </iframe>
-</div> -->
+</div>
 
-<iframe
+<!-- <iframe
   src="assets/img/publication_preview/Example_2025_AGEL_Roadmap.pdf" 
   width="100%"
   height="900px"
   style="border:none;"
 >
-</iframe>
+</iframe> -->
 
 
 - The AGEL Data Policies and Management Plan, a document that summarizes:
