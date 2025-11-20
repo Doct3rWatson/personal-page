@@ -5,6 +5,7 @@ description: Post-doc project for AGEL survey.
 img: assets/img/3_interactive_plotonly.png
 importance: 2
 category: work
+citation: true
 ---
 
 
