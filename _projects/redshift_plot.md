@@ -21,7 +21,7 @@ I decided to get a bit extra and see if I could make the plot more interactive. 
     src="https://doct3rwatson.github.io/Lensing-DB-redshifts/"
     style="
       position:absolute; top:0; left:0;
-      width:1400px; height:1400px;   /* native page size */
+      width:1800px; height:1400px;   /* native page size */
       transform:scale(0.75);
       transform-origin:0 0;
       border:0;
