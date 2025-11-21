@@ -22,22 +22,23 @@ This involved creating:
     - What data products we had on hand and where to find them (which meant wrangling data from a bunch of different scientists...)
     - Some links to tutorials and examples that may help new researchers getting started
 
-<div style="position:relative; padding-bottom:80%; height:0; overflow:auto;">
+<!-- <div style="position:relative; padding-bottom:80%; height:0; overflow:auto;">
 <iframe
   src="https://docs.google.com/document/d/180PoS0eUiFdz9aT3mNl22-fuoLNd5zZBbLazPJ7JHKE/edit?usp=sharing"
-  style="position:absolute; top:0; left:1; width:100%; height:1200px; border:0;"
+  style="position:absolute; top:0; left:1; width:1400px; height:1200px; border:0;"
   allowfullscreen
   loading="lazy">
 </iframe>
-</div>
+</div> -->
 
-<!-- <iframe
-  src="assets/img/publication_preview/Example_2025_AGEL_Roadmap.pdf" 
+ <iframe
+  src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://raw.githubuser.content.com/Doct3rWatson/personal-page/b9922ed5d683fcde352c3bfaf2a579c0ad5b72b2/assets/img/publication_preview/Example_2025_AGEL_Roadmap.pdf" 
   width="100%"
   height="900px"
-  style="border:none;"
->
-</iframe> -->
+  style="border:none;">
+</iframe> 
+
+
 
 
 - The AGEL Data Policies and Management Plan, a document that summarizes:
@@ -48,7 +49,7 @@ This involved creating:
 <div style="position:relative; padding-bottom:80%; height:0; overflow:auto;">
 <iframe
   src="https://docs.google.com/document/d/12KWi33mWvCOr469_4hnBdblogiJi7m3Fh1jjd4FonI0/edit?usp=sharing"
-  style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;"
+  style="position:absolute; top:0; left:0; width:1400px%; height:100%; border:0;"
   allowfullscreen
   loading="lazy">
 </iframe>
