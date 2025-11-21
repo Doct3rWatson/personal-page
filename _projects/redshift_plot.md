@@ -20,11 +20,18 @@ I decided to get a bit extra and see if I could make the plot more interactive. 
 <div style="position:relative; width:100%; height:85vh; overflow:auto;">
   <iframe
     src="https://doct3rwatson.github.io/Lensing-DB-redshifts/"
-    style="position:absolute; inset:0; width:100%; height:100%; border:0;"
+    style="
+      position:absolute; top:0; left:0;
+      width:1400px; height:900px;   /* native page size */
+      transform:scale(0.75);
+      transform-origin:0 0;
+      border:0;
+    "
     loading="lazy"
     allowfullscreen>
   </iframe>
 </div>
+
 
 
 
