@@ -409,8 +409,8 @@ ninja.data = [{
           description: "visualization on stream statistics for online radio broadcast",
           section: "Projects",handler: () => {
               window.location.href = "/personal-page/projects/listener_dashboard/";
-            },},{id: "projects-spectroscopically-confirmed-gravitational-lens-systems-interactive-database",
-          title: 'Spectroscopically Confirmed Gravitational Lens Systems | Interactive Database',
+            },},{id: "projects-interactive-database-of-spectroscopically-confirmed-gravitational-lens-systems",
+          title: 'Interactive Database of Spectroscopically Confirmed Gravitational Lens Systems',
           description: "Post-doc project for AGEL survey.",
           section: "Projects",handler: () => {
               window.location.href = "/personal-page/projects/redshift_plot/";
