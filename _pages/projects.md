@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 description: Assortment of projects I've done, both personal and professional. 
 nav: false
-nav_order: 3
+nav_order: 8
 display_categories: [work, fun]
 horizontal: false
 ---
