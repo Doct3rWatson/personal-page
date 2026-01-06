@@ -12,10 +12,9 @@ citation: true
 ## The AGEL Survey
 My first post-doc was with the [AGEL survey team](https://sites.google.com/view/agelsurvey/home?authuser=0). During this time, I worked to establish the framework for the AGEL project policies and data management plan, as well as set up the permanent [AGEL data archive](https://dataverse.harvard.edu/dataverse/agel-survey). This involved creating frameworks and documentation to follow. Examples of two such documents are below.
 
-
 <hr>
 
-- [The AGEL Team Roadmap](https://github.com/Doct3rWatson/personal-page/blob/main/assets/pdf/Example_2025_AGEL_Roadmap.pdf): a document that summarizes the AGEL team assets 
+- [The AGEL Team Roadmap](https://doct3rwatson.github.io/personal-page/assets/pdf/Example_2025_AGEL_Roadmap.pdf): a document that summarizes the AGEL team assets 
     - Onboarding new researchers and offboarding leaving team members
     - What resources we have
     - What reserachers were actively involved and their contact info
@@ -34,7 +33,7 @@ My first post-doc was with the [AGEL survey team](https://sites.google.com/view/
 
 <hr>
 
-- The AGEL Data Policies and Management Plan, a document that summarizes:
+- [The AGEL Data Policies and Management Plan](https://doct3rwatson.github.io/personal-page/assets/pdf/Example_AGEL_DMP_and_Policies.pdf): a document that summarizes:
     - Best practicies for data handling
     - Instructs users on how to create their Dataverse accounts and upload data to the established [AGEL Dataverse](https://dataverse.harvard.edu/dataverse/agel-survey) archive
     - Creating README files for published data
