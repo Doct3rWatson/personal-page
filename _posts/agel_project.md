@@ -15,7 +15,7 @@ My first post-doc was with the [AGEL survey team](https://sites.google.com/view/
 
 <hr>
 
-- The AGEL Team Roadmap: a document that summarizes the AGEL team assets 
+- [The AGEL Team Roadmap](https://github.com/Doct3rWatson/personal-page/blob/main/assets/pdf/Example_2025_AGEL_Roadmap.pdf): a document that summarizes the AGEL team assets 
     - Onboarding new researchers and offboarding leaving team members
     - What resources we have
     - What reserachers were actively involved and their contact info

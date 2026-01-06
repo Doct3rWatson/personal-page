@@ -22,21 +22,14 @@ This involved creating:
     - What data products we had on hand and where to find them (which meant wrangling data from a bunch of different scientists...)
     - Some links to tutorials and examples that may help new researchers getting started
 
-<!-- <div style="position:relative; padding-bottom:80%; height:0; overflow:auto;">
+<div style="position:relative; padding-bottom:80%; height:0; overflow:auto;">
 <iframe
-  src="https://docs.google.com/document/d/180PoS0eUiFdz9aT3mNl22-fuoLNd5zZBbLazPJ7JHKE/edit?usp=sharing"
+  src="https://github.com/Doct3rWatson/personal-page/blob/main/assets/pdf/Example_2025_AGEL_Roadmap.pdf" 
   style="position:absolute; top:0; left:1; width:1400px; height:1200px; border:0;"
   allowfullscreen
   loading="lazy">
 </iframe>
-</div> -->
-
- <iframe
-  src="https://github.com/Doct3rWatson/personal-page/blob/main/assets/img/publication_preview/Example_2025_AGEL_Roadmap.pdf" 
-  width="100%"
-  height="900px"
-  style="border:none;">
-</iframe> 
+</div>
 
 
 
