@@ -1,0 +1,22 @@
+.intro-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 2.5rem;
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+.intro-wrapper .profile {
+  flex-shrink: 0;
+}
+
+.intro-content {
+  max-width: 650px;
+}
+
+@media (max-width: 768px) {
+  .intro-wrapper {
+    flex-direction: column;
+  }
+}
