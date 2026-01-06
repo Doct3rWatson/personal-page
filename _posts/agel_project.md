@@ -10,7 +10,7 @@ citation: true
 
 
 ## The AGEL Survey
-My first post-doc was with the [AGEL survey team](https://sites.google.com/view/agelsurvey/home?authuser=0). During this time, I worked to establish the framework for the AGEL project policies and data management plan, as well as set up the permanent [AGEL data archive](https://dataverse.harvard.edu/dataverse/agel-survey). This involved creating frameworks and documentation to follow. Examples of two such documents are below.
+My first post-doc was with the [AGEL survey team](https://sites.google.com/view/agelsurvey/home?authuser=0). During this time, I worked to establish the framework for the AGEL project policies and data management plan, as well as set up the permanent [AGEL data archive](https://dataverse.harvard.edu/dataverse/agel-survey). This involved creating frameworks and documentation to follow. Examples of two such documents are shown below.
 
 <hr>
 
@@ -25,7 +25,7 @@ The Team Roadmap is a document that summarizes:
 <div style="position:relative; padding-bottom:80%; height:0; overflow:auto;">
 <iframe
   src="https://doct3rwatson.github.io/personal-page/assets/pdf/Example_2025_AGEL_Roadmap.pdf"
-  style="position:absolute; top:0; left:1; width:1400px; height:1200px; border:0;"
+  style="position:absolute; top:0; left:1; width:1000px; height:1200px; border:0;"
   allowfullscreen
   loading="lazy">
 </iframe>
@@ -33,15 +33,16 @@ The Team Roadmap is a document that summarizes:
 
 <hr>
 
-- [The AGEL Data Policies and Management Plan](https://doct3rwatson.github.io/personal-page/assets/pdf/Example_AGEL_DMP_and_Policies.pdf): a document that summarizes:
-    - Best practicies for data handling
-    - Instructs users on how to create their Dataverse accounts and upload data to the established [AGEL Dataverse](https://dataverse.harvard.edu/dataverse/agel-survey) archive
-    - Creating README files for published data
+### [The AGEL Data Policies and Management Plan](https://doct3rwatson.github.io/personal-page/assets/pdf/Example_AGEL_DMP_and_Policies.pdf)
+The Data Policies and Management Plan is a document that summarizes:
+  - Best practicies for data handling
+  - Instructs users on how to create their Dataverse accounts and upload data to the established [AGEL Dataverse](https://dataverse.harvard.edu/dataverse/agel-survey) archive
+  - Creating README files for published data
 
 <div style="position:relative; padding-bottom:80%; height:0; overflow:auto;">
 <iframe
   src="https://doct3rwatson.github.io/personal-page/assets/pdf/Example_AGEL_DMP_and_Policies.pdf"
-  style="position:absolute; top:0; left:0; width:2000px; height:100%; border:0;"
+  style="position:absolute; top:0; left:0; width:1000px; height:100%; border:0;"
   allowfullscreen
   loading="lazy">
 </iframe>

@@ -24,7 +24,7 @@ My first post-doc was with the [AGEL survey team](https://sites.google.com/view/
 <div style="position:relative; padding-bottom:80%; height:0; overflow:auto;">
 <iframe
   src="https://doct3rwatson.github.io/personal-page/assets/pdf/Example_2025_AGEL_Roadmap.pdf"
-  style="position:absolute; top:0; left:1; width:1400px; height:1200px; border:0;"
+  style="position:absolute; top:0; left:1; width:1000px; height:1200px; border:0;"
   allowfullscreen
   loading="lazy">
 </iframe>
@@ -41,7 +41,7 @@ My first post-doc was with the [AGEL survey team](https://sites.google.com/view/
 <div style="position:relative; padding-bottom:80%; height:0; overflow:auto;">
 <iframe
   src="https://doct3rwatson.github.io/personal-page/assets/pdf/Example_AGEL_DMP_and_Policies.pdf"
-  style="position:absolute; top:0; left:0; width:2000px; height:100%; border:0;"
+  style="position:absolute; top:0; left:0; width:1000px; height:100%; border:0;"
   allowfullscreen
   loading="lazy">
 </iframe>
