@@ -3,8 +3,9 @@ layout: post
 title: Project & Data Manager for the AGEL Survey
 date: 2025-11-15
 description: Post-doc work for AGEL survey.
-img: assets/img/agel_survey_logo.png
+thumbnail: assets/img/agel_survey_logo.png
 categories: work
+tags: managing coding
 citation: true
 ---
 
