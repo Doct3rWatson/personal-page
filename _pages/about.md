@@ -25,6 +25,4 @@ latest_posts:
 
 Dr. Courtney B. Watson currently works as a postdoctoral scholar at the Harvard & Smithsonian, Center for Astrophysics with Dr. Kim-Vy Tran as the project and data manager for the AGEL Survey.  In this role she has built the framework for the AGEL survey workflows and policies for handling AGEL data. In addition, she established the permanent AGEL data archive to house all the data from the survey as well as individual researchers. See [the projects page](https://doct3rwatson.github.io/personal-page/projects/) for more info. 
 
-<!-- 
-on gravitational lensing.  Courtney is an expert on large scale structure formation and evolution as well as galaxy cluster environments, with a primary interest in the development of data reduction and visualization pipelines to aid in analysis. With 7+ years of experience in data analysis and project management within the academic research sector. Proficient in Python (pandas, NumPy, SciPy, Matplotlib) and SQL-style querying, with strong skills in statistical analysis and visualization and proven ability to communicate findings clearly to diverse audiences. Dedicated educator with multiple teaching fellowships, recognition for outstanding teaching performance, and experience mentoring multiple undergraduate researchers. Experienced collaborator with strong technical expertise in Python-based data analysis, astronomical software, and scientific communication. 
--->
+
