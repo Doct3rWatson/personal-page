@@ -113,6 +113,12 @@
   ],
   "publications": [
     {
+      "name": "Deep Chandra X-Ray Observations of A2029: The Merger History of a Relaxed, Strong Cool Core Cluster",
+      "publisher": "The Astrophysical Journal",
+      "releaseDate": "2026-01-01",
+      "url": "https://doi.org/10.3847/1538-4357/ae2026"
+    },
+    {
       "name": "HST Grism Observations of a z~1.8 Cluster Candidate from the Clusters Occupied by Bent Radio AGN (COBRA) Survey",
       "publisher": "The Astrophysical Journal",
       "releaseDate": "2025-05-01",
@@ -139,11 +145,11 @@
   ],
   "skills": [
     {
-      "name": "Data/Analytics",
+      "name": "Data & Analytics",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Python (e.g., pandas, NumPy, SciPy, Matplotlib, Astropy, Bokeh)",
+        "Python (e.g., pandas, NumPy, SciPy, Matplotlib, Astropy, Bokeh, etc.)",
         "Microsoft Excel",
         "Jupyter",
         "Anaconda",
@@ -154,14 +160,14 @@
       ]
     },
     {
-      "name": "Documentation/Productivity Software",
+      "name": "Project Mangement",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "LaTeX (technical/scientific writing, publishing-quality docs)",
+        "LaTeX (technical/scientific writing, publication-quality documents)",
         "Markdown (documentation, README files)",
-        "Project management / collaboration platforms (e.g., Airtable)",
-        "Microsoft Office Suite (Word, Excel, PowerPoint, Outlook)",
+        "Project management / collaboration platforms (e.g., Airtable, Smartsheet, Project)",
+        "Microsoft Office Suite (Word, Excel, PowerPoint, Planner)",
         "Google Workspace (Docs, Sheets, Slides, Drive)",
         "Adobe Creative Suite (Photoshop, Illustrator, InDesign)"
       ]
