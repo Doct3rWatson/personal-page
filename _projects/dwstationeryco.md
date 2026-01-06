@@ -40,7 +40,7 @@ Available in [6"x9"](https://www.amazon.com/dp/B0G1YK4N13) or [8.5"x11"](https:/
 <hr>
 
 ## Planned Chaos: 52-week Undated Weekly Planner -- Blue Modern
-Available as [6"x9" paperback]("https://www.amazon.com/dp/B0G1YFGVWP).
+Available as [6"x9" paperback](https://www.amazon.com/dp/B0G1YFGVWP).
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
