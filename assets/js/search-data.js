@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/personal-page/publications/";
           },
-        },{id: "books-the-godfather",
+        },{id: "post-project-amp-data-manager-for-the-agel-survey",
+        
+          title: "Project &amp; Data Manager for the AGEL Survey",
+        
+        description: "Post-doc work for AGEL survey.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/personal-page/blog/2025/agel_project/";
+          
+        },
+      },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
