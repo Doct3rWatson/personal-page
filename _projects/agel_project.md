@@ -40,8 +40,8 @@ My first post-doc was with the [AGEL survey team](https://sites.google.com/view/
 
 <div style="position:relative; padding-bottom:80%; height:0; overflow:auto;">
 <iframe
-  src="https://docs.google.com/document/d/12KWi33mWvCOr469_4hnBdblogiJi7m3Fh1jjd4FonI0/edit?usp=sharing"
-  style="position:absolute; top:0; left:0; width:1400px%; height:100%; border:0;"
+  src="https://doct3rwatson.github.io/personal-page/assets/pdf/Example_AGEL_DMP_and_Policies.pdf"
+  style="position:absolute; top:0; left:0; width:2000px; height:100%; border:0;"
   allowfullscreen
   loading="lazy">
 </iframe>

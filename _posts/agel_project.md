@@ -14,22 +14,22 @@ My first post-doc was with the [AGEL survey team](https://sites.google.com/view/
 
 <hr>
 
-- [The AGEL Team Roadmap](https://doct3rwatson.github.io/personal-page/assets/pdf/Example_2025_AGEL_Roadmap.pdf): a document that summarizes the AGEL team assets 
-    - Onboarding new researchers and offboarding leaving team members
-    - What resources we have
-    - What reserachers were actively involved and their contact info
-    - What data products we had on hand and where to find them (which meant wrangling data from a bunch of different scientists...)
-    - Some links to tutorials and examples that may help new researchers getting started
+### [The AGEL Team Roadmap](https://doct3rwatson.github.io/personal-page/assets/pdf/Example_2025_AGEL_Roadmap.pdf)
+The Team Roadmap is a document that summarizes:
+  - Onboarding new researchers and offboarding leaving team members
+  - What resources we have
+  - What reserachers were actively involved and their contact info
+  - What data products we had on hand and where to find them (which meant wrangling data from a bunch of different scientists...)
+  - Some links to tutorials and examples that may help new researchers getting started
 
-<!-- <div style="position:relative; padding-bottom:80%; height:0; overflow:auto;">
+<div style="position:relative; padding-bottom:80%; height:0; overflow:auto;">
 <iframe
-  src="https://docs.google.com/document/d/180PoS0eUiFdz9aT3mNl22-fuoLNd5zZBbLazPJ7JHKE/edit?usp=sharing"
+  src="https://doct3rwatson.github.io/personal-page/assets/pdf/Example_2025_AGEL_Roadmap.pdf"
   style="position:absolute; top:0; left:1; width:1400px; height:1200px; border:0;"
   allowfullscreen
   loading="lazy">
 </iframe>
-</div> -->
-
+</div>
 
 <hr>
 
@@ -40,8 +40,8 @@ My first post-doc was with the [AGEL survey team](https://sites.google.com/view/
 
 <div style="position:relative; padding-bottom:80%; height:0; overflow:auto;">
 <iframe
-  src="https://docs.google.com/document/d/12KWi33mWvCOr469_4hnBdblogiJi7m3Fh1jjd4FonI0/edit?usp=sharing"
-  style="position:absolute; top:0; left:0; width:1400px%; height:100%; border:0;"
+  src="https://doct3rwatson.github.io/personal-page/assets/pdf/Example_AGEL_DMP_and_Policies.pdf"
+  style="position:absolute; top:0; left:0; width:2000px; height:100%; border:0;"
   allowfullscreen
   loading="lazy">
 </iframe>
