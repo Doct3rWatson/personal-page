@@ -6,7 +6,6 @@ description: Post-doc work for AGEL survey.
 thumbnail: assets/img/agel_survey_logo.png
 categories: work
 tags: managing coding
-citation: true
 ---
 
 
