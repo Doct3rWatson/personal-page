@@ -82,7 +82,17 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-online-listeners-dashboard",
+          section: "News",},{id: "professional-project-amp-data-manager-for-the-agel-survey",
+          title: 'Project &amp;amp; Data Manager for the AGEL Survey',
+          description: "Post-doc &amp; consulting work for AGEL survey.",
+          section: "Professional",handler: () => {
+              window.location.href = "/personal-page/professional/agel_project/";
+            },},{id: "professional-doctor-watson-39-s-stationery-co",
+          title: 'Doctor Watson&amp;#39;s Stationery Co.',
+          description: "Side hobby of crafting and such",
+          section: "Professional",handler: () => {
+              window.location.href = "/personal-page/professional/dwstationeryco/";
+            },},{id: "projects-online-listeners-dashboard",
           title: 'Online Listeners Dashboard',
           description: "visualization on stream statistics for online radio broadcast",
           section: "Projects",handler: () => {
