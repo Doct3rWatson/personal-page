@@ -4,7 +4,7 @@ title: Doctor Watson's Stationery Co.
 description: Side hobby of crafting and such
 img: assets/img/dw_logo.png
 importance: 1
-category: fun
+category: creative
 images:
   compare: true
   slider: true

@@ -1,16 +1,17 @@
 ---
 layout: page
 title: Project & Data Manager for the AGEL Survey
-description: Post-doc work for AGEL survey.
+description: Post-doc & consulting work for AGEL survey.
 img: assets/img/agel_survey_logo.png
 importance: 1
-category: work
+category: consulting
 citation: true
 ---
 
 
 ## The AGEL Survey
-My first post-doc was with the [AGEL survey team](https://sites.google.com/view/agelsurvey/home?authuser=0). During this time, I worked to establish the framework for the AGEL project policies and data management plan, as well as set up the permanent [AGEL data archive](https://dataverse.harvard.edu/dataverse/agel-survey). This involved creating frameworks and documentation to follow. Examples of two such documents are shown below.
+My first post-doc was with the [AGEL survey team](https://sites.google.com/view/agelsurvey/home?authuser=0). During this time, I worked to establish the framework for the AGEL project policies and data management plan, as well as set up the permanent [AGEL data archive](https://dataverse.harvard.edu/dataverse/agel-survey). This involved creating frameworks and documentation to follow. Examples of two such documents are shown below. 
+
 
 <hr>
 
