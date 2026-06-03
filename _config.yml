@@ -151,6 +151,8 @@ collections:
     output: true
   projects:
     output: true
+  professional:
+    output: true
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
