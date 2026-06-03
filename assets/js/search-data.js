@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/personal-page/publications/";
           },
-        },{id: "post-project-amp-data-manager-for-the-agel-survey",
+        },{id: "post-abell-2029-press-release",
+        
+          title: "Abell 2029 Press Release",
+        
+        description: "Press coverage of my work",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/personal-page/blog/2026/chandra_press/";
+          
+        },
+      },{id: "post-project-amp-data-manager-for-the-agel-survey",
         
           title: "Project &amp; Data Manager for the AGEL Survey",
         
